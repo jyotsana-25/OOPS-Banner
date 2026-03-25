@@ -1,4 +1,4 @@
-public class Hello {
+public class uc7 {
 
     static class CharacterPattern {
         char character;
